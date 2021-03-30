@@ -34,27 +34,11 @@ This sample **requires** prerequisites in order to run.
     > node --version
     ```
     
-- Install BF CLI with Orchestrator plugin
+- Install BF CLI
     - Install bf cli 
     ```bash
     > npm i -g @microsoft/botframework-cli
     ```
-    - Install bf orchestrator
-    ```bash
-    > bf plugins:install @microsoft/bf-orchestrator-cli
-    ```
-       If you have previously installed bf orchestrator plugin, uninstall that version and then run the install command again.
-    
-       Uninstall command:
-    
-    ```bash
-    > bf plugins:uninstall @microsoft/bf-orchestrator-cli
-    ```
-    - Make sure bf orchestrator command is working and shows all available orchestrator commands
-    ```bash
-    > bf orchestrator
-    ```
-    
 ## To try this bot sample
 
 - Clone the repository

@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.28803.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.dispatch-bot", "01.dispatch-bot\01.dispatch-bot.csproj", "{C6BC58B0-B192-4528-8FCD-9A3FE925F220}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreBot", "02.core-bot\CoreBot.csproj", "{2E87A6F8-9C08-48A7-8413-D7E15AEA347B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,14 @@ Global
 		{C6BC58B0-B192-4528-8FCD-9A3FE925F220}.Release|Any CPU.ActiveCfg = Release|x64
 		{C6BC58B0-B192-4528-8FCD-9A3FE925F220}.Release|x64.ActiveCfg = Release|x64
 		{C6BC58B0-B192-4528-8FCD-9A3FE925F220}.Release|x64.Build.0 = Release|x64
+		{2E87A6F8-9C08-48A7-8413-D7E15AEA347B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E87A6F8-9C08-48A7-8413-D7E15AEA347B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E87A6F8-9C08-48A7-8413-D7E15AEA347B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2E87A6F8-9C08-48A7-8413-D7E15AEA347B}.Debug|x64.Build.0 = Debug|Any CPU
+		{2E87A6F8-9C08-48A7-8413-D7E15AEA347B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E87A6F8-9C08-48A7-8413-D7E15AEA347B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E87A6F8-9C08-48A7-8413-D7E15AEA347B}.Release|x64.ActiveCfg = Release|Any CPU
+		{2E87A6F8-9C08-48A7-8413-D7E15AEA347B}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
